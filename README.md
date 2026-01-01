@@ -5,8 +5,6 @@ A Comparative and Human-Perception–Driven Study
 This repository contains my final project for the course Artificial Intelligence: Fundamentals and Applications, focused on dominant color extraction from images.
 The project focuses on a comparative study of clustering-based and feature-based methods and proposes a human-perception–driven approach to improve the alignment between extracted color palettes and human visual perception.
 
-The work was conducted as part of a Computer Vision / Machine Learning course and follows an academic, research-oriented structure.
-
 ---
 
 ## Motivation
