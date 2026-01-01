@@ -25,7 +25,7 @@ The following methods were implemented and evaluated:
 
 - **RGB K-means clustering**
 - **CIELAB-based K-means clustering**
-- **Feature-based dominant color extraction** (based on existing academic literature)
+- **Feature-based dominant color extraction** (based on Chang & Mukai (2022) method)
 - **Proposed human-perception–driven approach**, integrating:
   - Perceptual color space (CIELAB)
   - Saliency and region-level analysis
